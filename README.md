@@ -6,7 +6,7 @@ About the Project:
 3. Performed GET, POST , PUT , DELETE and tested it on ThunderClient (VS CODE plugin to test endpoints)
 
 
-##Run it on Local!
+## Run it on Local!
 1. Make a Folder-> mkdir <folder_name>
 2. Clone the project in the folder.
 3. Run the main.go file using the command->  go run main.go (Make sure you have go installed)
