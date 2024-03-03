@@ -1,6 +1,7 @@
 # BasicCRUDOperationsGolang
 
 About the Project:
+### Used Gorilla Mux for routing 
 1. I have tried to implement basic crud operations in Golang.
 2. In place of using an actual database I have used a Fake DB. Used slices of struct to store the data
 3. Performed GET, POST , PUT , DELETE and tested it on ThunderClient (VS CODE plugin to test endpoints)
